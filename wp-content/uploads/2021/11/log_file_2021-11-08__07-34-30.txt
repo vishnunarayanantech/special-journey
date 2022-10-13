@@ -1,0 +1,161 @@
+
+---Downloaded files---
+The import files for: Default Supermarket were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wp/wordpress
+Data file = /var/www/html/wp/wordpress/wp-content/plugins/theme-freesia-demo-import/files/dummy/supermarket/supermarket.wordpress.xml
+Widget file = /var/www/html/wp/wordpress/wp-content/plugins/theme-freesia-demo-import/files/dummy/supermarket/supermarket-widgets.wie
+Customizer file = /var/www/html/wp/wordpress/wp-content/plugins/theme-freesia-demo-import/files/dummy/supermarket/supermarket-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Text - No Title - Imported
+
+Top Header Info : 
+
+Text - No Title - Imported
+
+Header Tel. Info : 
+
+Text - Call Us: +777 2345 6788 - Imported
+
+Supermarket Template : 
+
+TF: Index Info - No Title - Imported
+TF: Banner with Text - No Title - Imported
+TF: Product Grid Column Widget - Deal Of The Day - Imported
+TF: Product Image Category  - Top Categories - Imported
+TF: Product Category Tab Box - Popular Trends - Imported
+TF: Banner with Text - No Title - Imported
+TF: Product Grid Column Widget - Featured Product - Imported
+TF: Banner with Text - No Title - Imported
+TF: Product Grid Column Widget - Trendy Fashion Clothes - Imported
+TF: Banner with Text - No Title - Imported
+TF: Category Latest Blog Widget - Latest Blogs - Imported
+
+Contact Page Sidebar : 
+
+Text - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+Products list - Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+ Supermarket Template Footer Column 1 : 
+
+Products list - Featured Products - Imported
+
+ Supermarket Template Footer Column 2 : 
+
+Products list - On Sale Products - Imported
+
+ Supermarket Template Footer Column 3 : 
+
+Products list - New Arrivals - Imported
+
+ Supermarket Template Footer Column 4 : 
+
+Products list - All Products - Imported
+
+Footer Column 1 : 
+
+Text - No Title - Imported
+
+Footer Column 2 : 
+
+Text - Shop Location - Imported
+
+Footer Column 3 : 
+
+Custom HTML - We Accept - Imported
+
+Footer Column 4 : 
+
+Image - Download Our Apps - Imported
+Image - No Title - Imported
+
+Max Mega Menu Widgets : 
+
+Text - No Title - Imported
+Image - Featured Item - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---tf-tfdi/after_import---
+
