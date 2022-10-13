@@ -1,5 +1,5 @@
 <?php
-
+//for git edit upload
 /**
 
  * The base configuration for WordPress
