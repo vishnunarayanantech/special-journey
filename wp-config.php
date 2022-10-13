@@ -1,5 +1,6 @@
 <?php
-//for git edit upload
+//for test again
+
 /**
 
  * The base configuration for WordPress
