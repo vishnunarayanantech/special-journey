@@ -1,6 +1,5 @@
 <?php
-//for test again
-
+// second day
 /**
 
  * The base configuration for WordPress
